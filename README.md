@@ -3,3 +3,6 @@ Hi, I'm Conor, currently an undergraduate student at UC Riverside studying Compu
 ***
 
 * [LinkedIn](https://www.linkedin.com/in/conor-fabian/)
+* [Resume]
+* [About Me]
+* [Blog]
