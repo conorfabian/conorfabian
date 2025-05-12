@@ -4,5 +4,4 @@ Hi, I'm Conor, currently an undergraduate student at UC Riverside studying Compu
 
 * [LinkedIn](https://www.linkedin.com/in/conor-fabian/)
 * [Resume](https://www.linkedin.com/in/conor-fabian/)
-* [About Me](https://www.linkedin.com/in/conor-fabian/)
-* [Blog](https://www.linkedin.com/in/conor-fabian/)
+* [About Me]([https://www.linkedin.com/in/conor-fabian/](https://conorfabian.netlify.app/))
